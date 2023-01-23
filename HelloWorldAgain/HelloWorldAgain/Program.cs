@@ -19,6 +19,7 @@ namespace HelloWorldAgain
 
             Console.WriteLine("Hello World! My name is {0} and I am {1} years old. I was born in {2}.", userName, userAge, currentYear - userAge);
 
+            //Estrutura condicional
             int userAge2;
 
             Console.WriteLine("Please enter your age: ");
@@ -63,7 +64,54 @@ namespace HelloWorldAgain
                     break;
             }
 
+            //Estrutura de repetição
+            for(int i = 0; i < 5; i++)
+            {
+                Console.WriteLine(i);
+            }
 
+            int[] myNumbers = {10,20,30,40,50 };
+            for(int i = 0; i < myNumbers.Length; i++)
+            {
+                Console.WriteLine(myNumbers[i]);
+            }
+
+            char[] message = { 'H', 'e', 'l', 'l', 'o','!' };
+            foreach(char i in message)
+            {
+                Console.Write(i);
+            }
+
+            int counter = 5;
+            while(counter > 0)
+            {
+                Console.WriteLine("Counter = {0}", counter);
+                counter = counter - 1;
+            }
+
+            int counter2 = 100;
+
+            do
+            {
+                Console.WriteLine("Counter = {0}", counter2);
+                counter++;
+            } while (counter2 < 0);
+
+            int i2 = 0;
+            for (i2 = 0; i2 < 5; i2++)
+            {
+                Console.WriteLine("i = {0}", i2);
+                if (i2 == 2)
+                    break;
+            }
+
+            for(int i = 0; i < 5; i++)
+            {
+                Console.WriteLine("i  {0}", i);
+                if (i == 2)
+                    continue;
+                Console.WriteLine("I will not be printed if i = 2.\n");
+            }
         }
     }
 }
