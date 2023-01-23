@@ -1,0 +1,14 @@
+C:\Users\morai\source\repos\ClassDemo\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.exe
+C:\Users\morai\source\repos\ClassDemo\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.deps.json
+C:\Users\morai\source\repos\ClassDemo\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.runtimeconfig.json
+C:\Users\morai\source\repos\ClassDemo\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.runtimeconfig.dev.json
+C:\Users\morai\source\repos\ClassDemo\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.dll
+C:\Users\morai\source\repos\ClassDemo\ClassDemo\bin\Debug\netcoreapp3.1\ClassDemo.pdb
+C:\Users\morai\source\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.csproj.AssemblyReference.cache
+C:\Users\morai\source\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morai\source\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.AssemblyInfoInputs.cache
+C:\Users\morai\source\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.AssemblyInfo.cs
+C:\Users\morai\source\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.csproj.CoreCompileInputs.cache
+C:\Users\morai\source\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.dll
+C:\Users\morai\source\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.pdb
+C:\Users\morai\source\repos\ClassDemo\ClassDemo\obj\Debug\netcoreapp3.1\ClassDemo.genruntimeconfig.cache
