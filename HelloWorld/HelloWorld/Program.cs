@@ -112,6 +112,24 @@ namespace HelloWorld
             // Resultado: Deposit = $2,125.00. Account balance = $12,345.68
             Console.WriteLine("Deposit = {0:C}. Account balance = {1:C}.", 2125, 12345.678);
 
+            //Escape Sequences
+            Console.WriteLine("Hello\tWorld!"); //tab is printed
+            Console.WriteLine("Hello\nWorld!"); //quebra de linha 
+            Console.WriteLine("\\");//imprime uma barra invertida
+            Console.WriteLine("I am 5'9\" tall"); //imprime aspas duplas sem quebrar a string
+
+            //Entrada de dos pelo usuário
+            Console.WriteLine("Insira uma string");
+            string userInput = Console.ReadLine();
+            Console.WriteLine(userInput);
+
+            Console.WriteLine("Insira um número inteiro");
+            string userInput2 = Console.ReadLine();
+            int newUserInput2 = Convert.ToInt32(userInput2);
+            decimal newUserInput3 = Convert.ToDecimal(userInput2);
+            float newUserInput4 = Convert.ToSingle(userInput2);
+            double newUserInput = Convert.ToDouble(userInput2);
+
             Console.WriteLine("Hello World".Length);
 
             Console.WriteLine("Hello World!");
