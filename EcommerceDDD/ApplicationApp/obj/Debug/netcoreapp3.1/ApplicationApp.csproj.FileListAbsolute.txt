@@ -1,0 +1,10 @@
+C:\Users\morai\source\repos\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.deps.json
+C:\Users\morai\source\repos\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.dll
+C:\Users\morai\source\repos\EcommerceDDD\ApplicationApp\bin\Debug\netcoreapp3.1\ApplicationApp.pdb
+C:\Users\morai\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.csproj.AssemblyReference.cache
+C:\Users\morai\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morai\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.AssemblyInfoInputs.cache
+C:\Users\morai\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.AssemblyInfo.cs
+C:\Users\morai\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.csproj.CoreCompileInputs.cache
+C:\Users\morai\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.dll
+C:\Users\morai\source\repos\EcommerceDDD\ApplicationApp\obj\Debug\netcoreapp3.1\ApplicationApp.pdb
