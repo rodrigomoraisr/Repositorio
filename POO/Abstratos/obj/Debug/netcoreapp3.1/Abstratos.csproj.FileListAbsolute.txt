@@ -1,0 +1,14 @@
+C:\Users\morai\source\repos\POO\Abstratos\bin\Debug\netcoreapp3.1\Abstratos.exe
+C:\Users\morai\source\repos\POO\Abstratos\bin\Debug\netcoreapp3.1\Abstratos.deps.json
+C:\Users\morai\source\repos\POO\Abstratos\bin\Debug\netcoreapp3.1\Abstratos.runtimeconfig.json
+C:\Users\morai\source\repos\POO\Abstratos\bin\Debug\netcoreapp3.1\Abstratos.runtimeconfig.dev.json
+C:\Users\morai\source\repos\POO\Abstratos\bin\Debug\netcoreapp3.1\Abstratos.dll
+C:\Users\morai\source\repos\POO\Abstratos\bin\Debug\netcoreapp3.1\Abstratos.pdb
+C:\Users\morai\source\repos\POO\Abstratos\obj\Debug\netcoreapp3.1\Abstratos.csproj.AssemblyReference.cache
+C:\Users\morai\source\repos\POO\Abstratos\obj\Debug\netcoreapp3.1\Abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morai\source\repos\POO\Abstratos\obj\Debug\netcoreapp3.1\Abstratos.AssemblyInfoInputs.cache
+C:\Users\morai\source\repos\POO\Abstratos\obj\Debug\netcoreapp3.1\Abstratos.AssemblyInfo.cs
+C:\Users\morai\source\repos\POO\Abstratos\obj\Debug\netcoreapp3.1\Abstratos.csproj.CoreCompileInputs.cache
+C:\Users\morai\source\repos\POO\Abstratos\obj\Debug\netcoreapp3.1\Abstratos.dll
+C:\Users\morai\source\repos\POO\Abstratos\obj\Debug\netcoreapp3.1\Abstratos.pdb
+C:\Users\morai\source\repos\POO\Abstratos\obj\Debug\netcoreapp3.1\Abstratos.genruntimeconfig.cache
