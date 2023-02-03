@@ -1,0 +1,14 @@
+C:\Users\morai\source\repos\POO\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\morai\source\repos\POO\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\morai\source\repos\POO\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\morai\source\repos\POO\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\morai\source\repos\POO\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\morai\source\repos\POO\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\morai\source\repos\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+C:\Users\morai\source\repos\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\morai\source\repos\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\morai\source\repos\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\morai\source\repos\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\morai\source\repos\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\morai\source\repos\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\morai\source\repos\POO\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache

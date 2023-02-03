@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "POO", "POO\POO.csproj", "{E
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstratos", "Abstratos\Abstratos.csproj", "{F4AC0B69-A141-477D-8887-7F8CE192E6FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{78C11DAF-472E-4FB2-BA4E-1D95E84500C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{F4AC0B69-A141-477D-8887-7F8CE192E6FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F4AC0B69-A141-477D-8887-7F8CE192E6FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F4AC0B69-A141-477D-8887-7F8CE192E6FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C11DAF-472E-4FB2-BA4E-1D95E84500C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C11DAF-472E-4FB2-BA4E-1D95E84500C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C11DAF-472E-4FB2-BA4E-1D95E84500C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C11DAF-472E-4FB2-BA4E-1D95E84500C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
