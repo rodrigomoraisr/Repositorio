@@ -1,7 +1,3 @@
-Olá, meu nome é Rodrigo Morais Aparecido
+Add-Migration InitialCreate -Context ContextBase
 
-Olá eu sou uma nova linha
-
-sistema de login
-
-idade 29
+Update-Database -Context ContextBase
